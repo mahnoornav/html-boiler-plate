@@ -1,0 +1,10 @@
+body { /* style settings for body/main display */
+  font-family: Arial, sans-serif; /* font */
+  background-color: #f4f4f4; /* bg colour */
+  text-align: center; /* alignment of text */
+  padding: 50px; /* distance from content to border */
+}
+
+h1 { /* style settings for h1 text */
+  color: #333; /* font colour */
+}
